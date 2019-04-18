@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 replicaCount: 1
 image:
-  repository: draft
-  tag: dev
+  repository: 10.97.188.240:5000/dignacio2015/go-quickstart
+  tag: failed
   pullPolicy: IfNotPresent
 
 # define environment variables here as a map of key: value
